@@ -1,1 +1,1 @@
-# car-parking-system
+# a car parking system where when the car enters it is detected using infra-red sensors and let to pass through the gate. when they park in a parking space the car is again detected by the IR sensors in placed in the parking space and the display shows that space is filled else empty
